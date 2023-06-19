@@ -22,10 +22,30 @@ namespace zd3_Shaidullin
 
         private void viewTable()
         {
-            stallsDataGrid.DataSource = null;
-            stallsDataGrid.DataSource = dataList;
-            // stallsDataGrid.Columns.Add("Q", "Q");
-            // stallsDataGrid.Columns.Add("Qp", "Qp");
+            stallsDataGrid.AutoGenerateColumns = false;
+            stallsDataGrid.Rows.Clear();
+            stallsDataGrid.Columns.Add("Column1","Column1");
+            stallsDataGrid.Columns.Add("Column2","Column2");
+            stallsDataGrid.Columns.Add("Column3","Column3");
+            stallsDataGrid.Columns.Add("Column4","Column4");
+            stallsDataGrid.Columns.Add("Column5","Column5");
+            stallsDataGrid.Columns.Add("Column6","Column6");
+            stallsDataGrid.Columns.Add("Column7","Column7");
+
+            foreach (Stall item in dataList)
+            {
+                int idx = stallsDataGrid.Rows.Add();
+
+                stallsDataGrid.Rows[idx].Cells["Column1"].Value = item.Name;
+                stallsDataGrid.Rows[idx].Cells["Column2"].Value = item.Address;
+                stallsDataGrid.Rows[idx].Cells["Column3"].Value = item.SalesCount;
+                stallsDataGrid.Rows[idx].Cells["Column4"].Value = item.SalesTotal;
+                stallsDataGrid.Rows[idx].Cells["Column5"].Value = item.P;
+                stallsDataGrid.Rows[idx].Cells["Column6"].Value = item.DaySpProduct;
+                stallsDataGrid.Rows[idx].Cells["Column7"].Value = item.HitProduct;
+
+            }
+
         }
         
         
@@ -63,7 +83,7 @@ namespace zd3_Shaidullin
             if (stallsDataGrid.SelectedRows.Count > 0)
             {
                 int selectedRow = stallsDataGrid.CurrentCell.RowIndex;
-                dataList.RemoveAt(selectedRow - 1);
+                dataList.RemoveAt(selectedRow);
                 stallsDataGrid.Refresh();
             }
             viewTable();
