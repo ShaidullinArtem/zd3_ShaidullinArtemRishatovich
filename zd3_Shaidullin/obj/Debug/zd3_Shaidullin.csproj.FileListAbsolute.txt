@@ -1,0 +1,11 @@
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\bin\Debug\zd3_Shaidullin.exe.config
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\bin\Debug\zd3_Shaidullin.exe
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\bin\Debug\zd3_Shaidullin.pdb
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\obj\Debug\zd3_Shaidullin.csproj.AssemblyReference.cache
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\obj\Debug\zd3_Shaidullin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\obj\Debug\zd3_Shaidullin.Properties.Resources.resources
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\obj\Debug\zd3_Shaidullin.csproj.GenerateResource.cache
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\obj\Debug\zd3_Shaidullin.csproj.CoreCompileInputs.cache
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\obj\Debug\zd3_Shaidullin.exe
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\obj\Debug\zd3_Shaidullin.pdb
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\zd3_Shaidullin\obj\Debug\zd3_Shaidullin.Form1.resources

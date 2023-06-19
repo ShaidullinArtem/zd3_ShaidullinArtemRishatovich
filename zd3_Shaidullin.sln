@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd3_Shaidullin", "zd3_Shaidullin\zd3_Shaidullin.csproj", "{047CF3EF-A785-4298-8FDF-69FC406D5B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{CC6DFF1A-529F-4FA4-BE9E-2389F0008EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047CF3EF-A785-4298-8FDF-69FC406D5B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047CF3EF-A785-4298-8FDF-69FC406D5B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047CF3EF-A785-4298-8FDF-69FC406D5B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047CF3EF-A785-4298-8FDF-69FC406D5B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6DFF1A-529F-4FA4-BE9E-2389F0008EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6DFF1A-529F-4FA4-BE9E-2389F0008EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6DFF1A-529F-4FA4-BE9E-2389F0008EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6DFF1A-529F-4FA4-BE9E-2389F0008EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

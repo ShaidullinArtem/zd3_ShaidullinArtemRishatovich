@@ -1,0 +1,12 @@
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\bin\Debug\nunit.framework.dll
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\bin\Debug\zd3_Shaidullin.exe
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\bin\Debug\zd3_Shaidullin.pdb
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\bin\Debug\zd3_Shaidullin.exe.config
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\bin\Debug\nunit.framework.xml
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\obj\Debug\TestProject1.csproj.AssemblyReference.cache
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\obj\Debug\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Artem\RiderProjects\zd3_Shaidullin\TestProject1\obj\Debug\TestProject1.pdb
